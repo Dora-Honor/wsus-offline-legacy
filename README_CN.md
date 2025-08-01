@@ -2,7 +2,7 @@
 
 # wsus-offline-legacy
 
-最后一个支持 Windows 8、Vista 和 XP 更新下载的 WSUS Offline Update
+最后一个支持 Windows 8、Vista 和 XP 的 WSUS Offline Update
 
 ## Windows XP
 

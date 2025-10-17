@@ -1,4 +1,8 @@
+<div align="right">
+
 English | [中文](README_CN.md) | [日本語](README_JP.md)
+
+</div>
 
 # wsus-offline-legacy
 
